@@ -13,7 +13,7 @@ exports.handler = async function (event, context) {
           id: "65e58d78-92c8-4ce4-84e6-2271b65772c3",
         },
         {
-          name: "Scholl",
+          name: "School",
           id: "4f0bec0f-408e-45f6-a9b1-76af3a9d0729",
         },
       ],
@@ -23,7 +23,7 @@ exports.handler = async function (event, context) {
       id: "48bbd4c0-2936-4321-a954-812d27e53d2a",
       contacts: [
         {
-          name: "Volunteer",
+          name: "Church",
           id: "fd15ca0f-ddfc-4402-915a-662fee1f9303",
         },
         {
