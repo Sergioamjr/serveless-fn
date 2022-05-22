@@ -1,7 +1,7 @@
 exports.handler = async function (event, context) {
   const services = [
     {
-      service: "Gmail",
+      name: "Gmail",
       id: "119fa3fa-2793-4800-a46f-a400be7da2a9",
       contacts: [
         {
@@ -19,7 +19,7 @@ exports.handler = async function (event, context) {
       ],
     },
     {
-      service: "Mailchimp",
+      name: "Mailchimp",
       id: "48bbd4c0-2936-4321-a954-812d27e53d2a",
       contacts: [
         {
